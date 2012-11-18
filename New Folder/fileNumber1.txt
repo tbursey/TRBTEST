@@ -1,7 +1,6 @@
 this is file number 1
 
-<<<<<<< HEAD
 adding a line for f0002
-=======
+
 Adding line for f003
->>>>>>> f003
+
